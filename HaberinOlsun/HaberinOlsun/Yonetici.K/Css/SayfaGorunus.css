@@ -1,0 +1,108 @@
+﻿.formContainer {
+    min-height:450px;
+    border:1px solid silver;
+    border-radius:5px;
+    margin-top:10px;
+    width:1000px;
+}
+.formtittle {
+    background-color: silver;
+    padding: 10px;
+    text-align: center
+}
+.formcontent {
+    padding-top:50px;
+    padding-left:115px;
+   text-align:center;
+   width:70%;
+}
+.row {
+    padding: 10px;
+    
+}
+    .row .formInput {
+        border: 1px solid darkred;
+        border-radius: 5px;
+        padding: 10px;
+        width: 250px;
+        margin-top: 15px;
+        
+    }
+        .row .formInput:focus {
+            outline: 1px solid black;
+        }
+    .row .formButton {
+        padding: 5px 20px;
+        background-color: silver;
+        border-radius: 5px;
+        color: black;
+        text-decoration: none;
+    }
+        .row .formButton:hover {
+            color:teal;
+        }
+.basariliMesaj {
+    padding: 25px;
+    border: 1px solid #098313;
+    background-color: silver;
+    color: #098313;
+    border-radius: 5px;
+}
+.basarisizMesaj {
+    padding: 25px;
+    border: 1px solid #890909;
+    background-color: silver;
+    color: #890909;
+    border-radius: 5px;
+}
+.listTable {
+    width: 100%;
+    border-top: 1px solid black;
+}
+    .listTable tr th {
+        border-bottom: 3px solid black;
+        padding: 15px 10px;
+        border-right: 1px solid silver;
+        text-align:center;
+    }
+    .listTable tr td {
+        border-bottom: 1px solid black;
+        padding: 15px 15px;
+    }
+   .tablebutton {
+    padding: 1px 1px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-bottom:15px;
+   }
+.update {
+    background-color:#0a8cec;
+    border: 1px solid #063a8e;
+    margin-left:3px;
+}
+    .update:hover {
+        background-color:green;
+        color:black;
+    }
+.delete {
+   float:left;
+    background-color: #ffbcbc;
+    border: 1px solid darkred;
+    color: darkred;
+    margin-top:3px;
+}
+.delete:hover
+{
+    background-color:darkred;
+    color:black;
+}
+.status {
+    background-color: #c8ffbb;
+    border: 1px solid green;
+    color: green;
+}
+    .status:hover {
+        background-color: green;
+        color: white;
+    }
+    

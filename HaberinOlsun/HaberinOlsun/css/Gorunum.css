@@ -1,0 +1,184 @@
+﻿*, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Calibri;
+}
+
+.temp {
+    background-color: #dedede;
+    height: 500px;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color:darkred;
+    border-bottom: 1px solid silver;
+    padding: 20px 0;
+    width:1000px;
+    margin-right:30px;
+   
+    
+}
+.kategori {
+    width: 1000px;
+    height: 40px;
+    background-color: darkred;
+    border: 1px solid darkred;
+    text-align: center;
+}
+    .kategori a {
+        float: left;
+        margin: 60px;
+        text-align: center;
+        text-decoration: none;
+        margin-top: 10px;
+        color: white;
+        
+    }
+.logo {
+    width: 150px;
+    height:150px;
+    float: left;
+}
+
+    .logo img {
+        width:150px;
+        height:150px;
+    }
+
+.user {
+    width: 250px;
+    float: right;
+    padding-top: 30px;
+    text-align: right;
+}
+
+    .user a {
+        color: white;
+        text-decoration: none;
+        padding: 0 20px;
+    }
+
+.content {
+    width: 87%;
+    padding: 20px 10px 0 0;
+    float: left;
+    height:min-content;
+    background-color:#c22222;
+}
+
+.artichle
+{
+    width:750px;
+    height:750px;
+    padding-left:350px;
+}
+
+.haberr {
+    width: 35%;
+    float: left;
+    padding: 45px;
+}
+
+.title {
+    padding: 10px 0;
+    color: dimgray;
+}
+
+.image img {
+    width: 40%;
+    text-align:center
+}
+
+.subcontent {
+}
+
+.summary {
+    padding: 10px 0;
+    color: dimgray;
+}
+
+.button {
+    padding: 10px 0;
+}
+
+    .button a {
+        color: white;
+        text-decoration: none;
+    }
+
+.menucontainer {
+    text-align:center;
+    float:right;
+    margin-top:0px;
+    background-color:darkred;
+}
+
+    .menucontainer ul {
+        list-style-type: none;
+        text-align:center;
+    }
+  
+
+        .menucontainer ul a {
+            text-decoration: none;
+            color: teal;
+            text-align:center;
+            color:black;
+        }
+
+            .menucontainer ul a li {
+                padding: 7px 7px 7px 15px;
+                border-bottom: 1px solid #dedede;
+                text-align:center;
+            }
+
+            .menucontainer ul a:hover li {
+                background-color:white;
+                color:black;
+                text-align:center;
+                
+            }
+
+.yorum {
+    color: gray;
+}
+
+.yorumPanelBaslik {
+    border-top: 1px solid silver;
+    border-bottom: 1px solid silver;
+    padding: 20px 0px;
+}
+
+.YorumKutu {
+    width: 100%;
+}
+
+.yorumYapButton {
+    padding: 10px 70px;
+    background-color: silver;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    border: 1px solid gray;
+}
+
+.yorumitem {
+    padding: 10px 0;
+    border-bottom: 1px solid silver;
+    border-top: 1px solid silver;
+}
+
+    .yorumitem label {
+        color: orangered;
+    }
+
+    .yorumitem p {
+    }

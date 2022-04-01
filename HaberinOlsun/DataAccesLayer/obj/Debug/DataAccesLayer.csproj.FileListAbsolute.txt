@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\HaberinOlsun\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\asus\source\repos\HaberinOlsun\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\asus\source\repos\HaberinOlsun\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\HaberinOlsun\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\HaberinOlsun\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+C:\Users\asus\source\repos\HaberinOlsun\DataAccesLayer\obj\Debug\DataAccesLayer.pdb

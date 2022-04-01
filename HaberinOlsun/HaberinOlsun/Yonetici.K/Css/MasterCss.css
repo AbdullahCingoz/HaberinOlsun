@@ -1,0 +1,66 @@
+﻿*,h1,h2,h3,h4,h5,h6
+{
+    margin:0;
+    padding:0;
+}
+body 
+{
+    font-family:Calibri;
+}
+.ustMenu
+{
+    height:70px;
+    background-color:darkred;
+}
+.logo
+{
+    padding:20px 20px;
+    color:white;
+    float:left;
+}
+.yoneticiAdiCikis
+{
+    padding:20px 50px;
+    color:white;
+    float:right;
+}
+.yoneticiAdiCikis a
+{
+    color:white;
+    text-decoration:none;
+}
+.solMenu
+{
+    width:250px;
+    background-color:black;
+    height:900px;
+    float:left;
+}
+.menu
+{
+    list-style-type:none;
+}
+.menu a
+{
+    color:white;
+    text-decoration:none;
+}
+.menu a li
+{
+    padding:10px;
+    padding-left:20px;
+    border-bottom:1px solid darkred;
+}
+.menu a:hover li
+{
+    background-color:white;
+    color:darkred;
+}
+.icerik{
+    width:55%;
+    padding:20px;
+    float:left;
+}
+
+
+

@@ -1,0 +1,48 @@
+﻿h1,h2,h3,h4,h5,h6
+{
+    margin:0;
+    padding:0;
+}
+body 
+{
+    font-family:Calibri;
+}
+.box
+{
+    width:350px;
+    min-height:250px;
+    border:1px solid darkred;
+    border-radius:7px;
+    margin:0px auto;
+}
+.baslik
+{
+    background-color:#dedede;
+    color:gray;
+    text-align:center;
+    padding:10px 0;
+    border-top-left-radius:7px;
+    border-top-right-radius:7px;
+}
+.metinkutu
+{
+    width:270px;
+    margin:10px 0;
+    padding:10px;
+    border-radius;5px;
+    border:1px solid darkred;
+}
+.contentcontainer
+{
+    padding:15px;
+}
+.hata
+{
+    background-color:#ff0000;
+    color:white;
+    border:1px solid silver;
+    padding:10px;
+    border-radius:5px;
+    margin-bottom:15px;
+
+}
